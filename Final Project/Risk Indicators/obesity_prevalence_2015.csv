@@ -1,4 +1,4 @@
-"Indicator","State","FIPS_code","County","Year","Age","Sex","Estimate_type","Estimate","Standard_error","Lowerlimit","Upperlimit"
+Indicator,State,FIPS_code,County,Year,Age,Sex,Estimate_type,Estimate,Standard_error,Lowerlimit,Upperlimit
 Obesity prevalence,Alabama,01 001,Autauga County,2015,Age-adjusted,Men,Percent,37.5,3.2,31.6,44.1
 Obesity prevalence,Alabama,01 001,Autauga County,2015,Age-adjusted,Total,Percent,37.6,3,31.9,43.6
 Obesity prevalence,Alabama,01 001,Autauga County,2015,Age-adjusted,Women,Percent,37.7,3.3,31.5,44
